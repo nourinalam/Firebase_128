@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="simpan">Simpan</string>
+</resources>
